@@ -1,0 +1,15 @@
+{
+    "name": "Endles Runner",
+    "short_name": "Endles Runner",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#6A6969",
+    "theme_color": "#000",
+    "description": "Endles Runner",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
